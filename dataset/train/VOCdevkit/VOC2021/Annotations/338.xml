@@ -1,0 +1,26 @@
+<annotation>
+	<folder>305data</folder>
+	<filename>338.png</filename>
+	<path>E:\Programming\AI\DataSets\withMaskDataset\305data\338.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>267</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask_good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>50</ymin>
+			<xmax>356</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

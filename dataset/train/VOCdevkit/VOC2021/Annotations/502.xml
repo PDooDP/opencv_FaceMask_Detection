@@ -1,0 +1,26 @@
+<annotation>
+	<folder>305data</folder>
+	<filename>502.png</filename>
+	<path>E:\Programming\AI\DataSets\withMaskDataset\305data\502.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask_good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>188</ymin>
+			<xmax>394</xmax>
+			<ymax>504</ymax>
+		</bndbox>
+	</object>
+</annotation>

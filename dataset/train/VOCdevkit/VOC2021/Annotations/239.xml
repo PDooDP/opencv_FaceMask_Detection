@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>239.png</filename>
+	<path>E:\Programming\AI\withMaskDataset\new_dataset\train\VOCdevkit\VOC2021\JPEGImages\239.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask_good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>39</ymin>
+			<xmax>150</xmax>
+			<ymax>80</ymax>
+		</bndbox>
+	</object>
+</annotation>
