@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct  4 01:47:22 2021
-
-@author: Dennis
-"""
-
-
 import os, random
 
 base = "VOCdevkit/VOC2021/"
