@@ -1,5 +1,7 @@
 classes = 3
-train = E:/Programming/AI/DataSets/V3/aidataset/dataset/train/2021_train.txt
-valid = E:/Programming/AI/DataSets/V3/aidataset/dataset/train/2021_val.txt
-names = E:/Programming/AI/DataSets/V3/aidataset/dataset/train/obj.names
-backup = E:/Programming/AI/DataSets/V3/aidataset/dataset/train/backup
+train = /dataset/train/2021_train.txt
+valid = /dataset/train/2021_val.txt
+names = /dataset/train/obj.names
+backup = /dataset/train/backup
+
+# use absolute path if this doesn't work
