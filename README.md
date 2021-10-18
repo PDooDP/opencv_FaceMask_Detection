@@ -5,5 +5,5 @@
 
 3. You can train your own weights using yolov4-custom.cfg if you'd like to give this project a try, then put the weight files into backup folder.
 
-Dataset is from <a href='https://www.kaggle.com/andrewmvd/face-mask-detection'>Face Mask Detection - Kaggle</a>, and I re-labelled 600 images myself using labelImg.
+4. Dataset is from <a href='https://www.kaggle.com/andrewmvd/face-mask-detection'>Face Mask Detection - Kaggle</a>, and I re-labelled 600 images myself using labelImg.
 
