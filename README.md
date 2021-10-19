@@ -7,6 +7,8 @@
 
 4. Please copy the yolov4.conv.137 file to train folder.
 
+<h1> Outputs </h1>
+
 Original Image 1: <br/>
 <img src="https://github.com/PDooDP/opencv_FaceMask_Detection/blob/master/results/1168.jpg?raw=true" width="600" height="400">
 
