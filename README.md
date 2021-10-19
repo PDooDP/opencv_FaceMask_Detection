@@ -5,3 +5,4 @@
 
 3. Dataset is from <a href='https://www.kaggle.com/andrewmvd/face-mask-detection'>Face Mask Detection - Kaggle</a>, and I re-labelled 600 images myself using labelImg.
 
+4. Please copy the yolov4.conv.137 file to train folder.
