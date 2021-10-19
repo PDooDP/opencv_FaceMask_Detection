@@ -7,22 +7,3 @@
 
 4. Please copy the yolov4.conv.137 file to train folder.
 
-5. Sample results
-
-  Original image 1: </br>
-  <img src="https://github.com/PDooDP/opencv_FaceMask_Detection/blob/master/results/1168.jpg?raw=true" width="600" height="400">
-
-  test with 1000.weights: </br>
-  <img src="https://github.com/PDooDP/opencv_FaceMask_Detection/blob/master/results/predictions_1168_1000w.jpg?raw=true" width="600" height="400">
-
-  test with 2000.weights: </br>
-  <img src="https://github.com/PDooDP/opencv_FaceMask_Detection/blob/master/results/predictions_1168_2000w.jpg?raw=true" width="600" height="400">
-  
-  Original image 2: </br>
-  <img src="https://github.com/PDooDP/opencv_FaceMask_Detection/blob/master/results/819.jpg?raw=true" width="600" height="400">
-
-  test with 1000.weights: </br>
-  <img src="https://github.com/PDooDP/opencv_FaceMask_Detection/blob/master/results/predictions_819_1000w.jpg?raw=true" width="600" height="400">
-
-  test with 2000.weights: </br>
-  <img src="https://github.com/PDooDP/opencv_FaceMask_Detection/blob/master/results/predictions_819_2000w.jpg?raw=true" width="600" height="400">
